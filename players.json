@@ -1,3 +1,6 @@
 {
-  "players": ["xZeyom_FC", "ZZhy"]
+  "staff": ["xZeyom_FC", "ZZhy"],
+  "youtubers": ["xzeyom_FC"],
+  "streamers": ["Streamer1", "Streamer2"],
+  "developers": ["xZeyom_FC", "ZZhy"]
 }
